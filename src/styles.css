@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: DidactGothic;
+    src: url(assets/Fonts/DidactGothic-Regular.ttf);
+}
+
+@font-face {
+    font-family: Quicksand;
+    src: url(assets/Fonts/Quicksand-Bold.ttf);
+    src: url(assets/Fonts/Quicksand-Light.ttf);
+    src: url(assets/Fonts/Quicksand-Medium.ttf);
+    src: url(assets/Fonts/Quicksand-Regular.ttf);
+}
+
+@font-face {
+    font-family: OpenSansCondensed;
+    src: url(assets/Fonts/OpenSansCondensed-Bold.ttf);
+    src: url(assets/Fonts/OpenSansCondensed-Light.ttf);
+    src: url(assets/Fonts/OpenSansCondensed-LightItalic.ttf);
+}
